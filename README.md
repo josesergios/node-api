@@ -1,5 +1,5 @@
 # nodets-canil
-Um CRUD API para manipular frases em um banco mySQL
+Um CRUD API para manipular frases em um banco mySQL.
 
 ### Pré-requisitos globais:
 `npm i -g nodemon typescript`
