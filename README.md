@@ -1,4 +1,4 @@
-# nodets-canil
+# node-api
 Um CRUD API para manipular frases em um banco mySQL
 
 ### Pré-requisitos globais:
